@@ -1,0 +1,24 @@
+bash:
+
+real    0m0,257s
+user    0m0,134s
+sys     0m0,090s
+
+
+perl:
+
+real    0m0,032s
+user    0m0,021s
+sys     0m0,009s
+
+
+python:
+
+real    0m0,091s
+user    0m0,047s
+sys     0m0,035s
+
+
+
+
+

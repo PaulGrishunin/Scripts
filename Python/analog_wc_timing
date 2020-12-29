@@ -1,0 +1,9 @@
+perl:
+    real    0m0,804s
+    user    0m0,798s
+    sys     0m0,004s
+
+python:
+    real    0m1,233s
+    user    0m1,217s
+    sys     0m0,013s
